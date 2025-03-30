@@ -1,0 +1,23 @@
+{
+  "title": "onepiece",
+  "description": "",
+  "artist": "Oda",
+  "author": "Oda",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1743331656",
+      "groups": {
+        "": [
+          "https://i.imgur.com/Vo3Y7PX.jpeg",
+          "https://i.imgur.com/6QJaGWp.jpeg",
+          "https://i.imgur.com/xbV4kh7.jpeg",
+          "https://i.imgur.com/WVvJdSX.jpeg",
+          "https://i.imgur.com/RYD0obk.jpeg"
+        ]
+      }
+    }
+  }
+}
